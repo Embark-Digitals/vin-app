@@ -1,0 +1,1 @@
+import{D as e}from"./brand-Bs_3XSJC.js";import{c as t}from"./shells-D-qJKSP2.js";import{t as n}from"./records-u_DuBURN.js";var r=e();function i(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(t,{title:`Records`,lead:`One line for every order an owner has paid for.`}),(0,r.jsx)(n,{})]})}export{i as component};
