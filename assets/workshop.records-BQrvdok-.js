@@ -1,0 +1,1 @@
+import{D as e}from"./brand-DN9VDyrO.js";import{c as t}from"./shells-Cl09r1U7.js";import{t as n}from"./records-CUJNMnN9.js";var r=e();function i(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(t,{title:`Records`,lead:`One line for every job you have closed.`}),(0,r.jsx)(n,{})]})}export{i as component};
